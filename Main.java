@@ -44,6 +44,7 @@ public class Main {
 					}
 				}
 			}
+			System.out.println("Che vuoi fare adesso?");
 			System.out.println("Vuoi inserire un altro intervento? ");
 			scelta=sc.nextLine();
 			if (scelta.equals("no"))
